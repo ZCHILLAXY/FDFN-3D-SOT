@@ -13,7 +13,7 @@ python==3.7
 torch==1.7.0  
 spconv==1.0(https://github.com/traveller59/spconv)  
 DCN_v2 (https://github.com/jinfagang/DCNv2_latest)  
-PS-ViT (https://github.com/yuexy/PS-ViT)
+PS-ViT (https://github.com/yuexy/PS-ViT)   
 prroi_pooling (https://github.com/vacancy/PreciseRoIPooling)
 mayavi==4.7.1  
 opencv-python==4.3.0.36  
